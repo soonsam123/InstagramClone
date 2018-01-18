@@ -1,0 +1,34 @@
+<resources>
+
+    <!--Login and Signup Section-->
+    <string name="app_name">InstagramClone</string>
+    <string name="instagram">Instagram</string>
+    <string name="noAccount">Don\'t have an account?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="logIn">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="haveAccount">Already have an account?</string>
+    <string name="logOut">Log Out</string>
+
+    <!--Sections-->
+    <string name="searchSection">Search Section</string>
+    <string name="homeSection">Home Section</string>
+    <string name="plusSection">Add Photos Section</string>
+    <string name="likeSection">Like Section</string>
+    <string name="userSection">Users Section</string>
+
+    <!--Users Info-->
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+
+    <!--Description-->
+    <string name="editDescription">Edit description</string>
+    <string name="newDescription">Write your new description&#8230;</string>
+    <string name="photoDescription">Write a description for your picture&#8230;</string>
+
+    <!--Buttons-->
+    <string name="submit">Submit</string>
+</resources>
